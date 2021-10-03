@@ -3,8 +3,7 @@ ________________________________________________________________________________
 
 This project Aims to read the vast data collected and the display th visualizations for the data.
 This vizualizations can be read and understood by the users to understand the vast data and discover patterns and trends in it.
-The Dashboard provides the user with sliders through which the number of attributes and observations can be adjusted from the data imported. 
-
+The Dashboard provides the user with sliders through which the number of attributes and observations can be adjusted from the data imported.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
